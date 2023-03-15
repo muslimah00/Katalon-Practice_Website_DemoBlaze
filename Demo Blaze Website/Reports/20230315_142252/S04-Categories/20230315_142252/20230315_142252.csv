@@ -1,0 +1,41 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+S04-Categories,Chrome 111.0.0.0,,,2023-03-15 14:22:59,2023-03-15 14:24:20,1m - 20.957s,PASSED
+,,,,,,,
+Test Cases/S04-Categories/CTG01-Phones,Chrome 111.0.0.0,,,2023-03-15 14:22:59,2023-03-15 14:23:00,0.818s,PASSED
+return null,Chrome 111.0.0.0,,,2023-03-15 14:23:00,2023-03-15 14:23:00,0.002s,PASSED
+,,,,,,,
+Test Cases/S04-Categories/CTG02-Laptops,Chrome 111.0.0.0,,,2023-03-15 14:23:00,2023-03-15 14:24:07,1m - 7.089s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-15 14:23:01,2023-03-15 14:23:06,5.518s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 111.0.0.0,,,2023-03-15 14:23:06,2023-03-15 14:23:09,2.945s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Log in""))",Chrome 111.0.0.0,,,2023-03-15 14:23:09,2023-03-15 14:23:11,1.744s,PASSED
+"setText(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/input_Username_loginusername""), ""reg01"")",Chrome 111.0.0.0,,,2023-03-15 14:23:11,2023-03-15 14:23:12,1.199s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/input_Password_loginpassword""), ""oM/O84xb6B0="")",Chrome 111.0.0.0,,,2023-03-15 14:23:12,2023-03-15 14:23:13,1.016s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/button_Log in""))",Chrome 111.0.0.0,,,2023-03-15 14:23:13,2023-03-15 14:23:15,1.325s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops""))",Chrome 111.0.0.0,,,2023-03-15 14:23:15,2023-03-15 14:23:19,3.988s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Sony vaio i5""))",Chrome 111.0.0.0,,,2023-03-15 14:23:19,2023-03-15 14:23:21,2.899s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)""))",Chrome 111.0.0.0,,,2023-03-15 14:23:21,2023-03-15 14:23:25,3.166s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops""))",Chrome 111.0.0.0,,,2023-03-15 14:23:25,2023-03-15 14:23:26,1.514s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Sony vaio i7""))",Chrome 111.0.0.0,,,2023-03-15 14:23:26,2023-03-15 14:23:29,3.005s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)""))",Chrome 111.0.0.0,,,2023-03-15 14:23:29,2023-03-15 14:23:34,4.546s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops""))",Chrome 111.0.0.0,,,2023-03-15 14:23:34,2023-03-15 14:23:36,2.242s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_MacBook air""))",Chrome 111.0.0.0,,,2023-03-15 14:23:36,2023-03-15 14:23:39,3.015s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)""))",Chrome 111.0.0.0,,,2023-03-15 14:23:39,2023-03-15 14:23:42,2.647s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops""))",Chrome 111.0.0.0,,,2023-03-15 14:23:42,2023-03-15 14:23:43,1.424s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Dell i7 8gb""))",Chrome 111.0.0.0,,,2023-03-15 14:23:43,2023-03-15 14:23:46,3.338s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)""))",Chrome 111.0.0.0,,,2023-03-15 14:23:46,2023-03-15 14:23:49,2.600s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops""))",Chrome 111.0.0.0,,,2023-03-15 14:23:49,2023-03-15 14:23:50,1.115s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_2017 Dell 15.6 Inch""))",Chrome 111.0.0.0,,,2023-03-15 14:23:50,2023-03-15 14:23:53,2.751s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)""))",Chrome 111.0.0.0,,,2023-03-15 14:23:53,2023-03-15 14:23:56,2.909s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops""))",Chrome 111.0.0.0,,,2023-03-15 14:23:56,2023-03-15 14:23:57,1.768s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_MacBook Pro""))",Chrome 111.0.0.0,,,2023-03-15 14:23:57,2023-03-15 14:24:01,3.038s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)""))",Chrome 111.0.0.0,,,2023-03-15 14:24:01,2023-03-15 14:24:03,2.485s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops""))",Chrome 111.0.0.0,,,2023-03-15 14:24:03,2023-03-15 14:24:05,1.839s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/button_Next""))",Chrome 111.0.0.0,,,2023-03-15 14:24:05,2023-03-15 14:24:06,1.544s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-03-15 14:24:06,2023-03-15 14:24:07,0.877s,PASSED
+,,,,,,,
+Test Cases/S04-Categories/CTG03-Monitors,Chrome 111.0.0.0,,,2023-03-15 14:24:07,2023-03-15 14:24:20,12.422s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-15 14:24:08,2023-03-15 14:24:12,4.070s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 111.0.0.0,,,2023-03-15 14:24:12,2023-03-15 14:24:15,2.282s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG03-Monitors/Page_STORE/a_Monitors""))",Chrome 111.0.0.0,,,2023-03-15 14:24:15,2023-03-15 14:24:16,1.820s,PASSED
+"click(findTestObject(""Object Repository/S04-Categories/CTG03-Monitors/Page_STORE/a_Apple monitor 24""))",Chrome 111.0.0.0,,,2023-03-15 14:24:16,2023-03-15 14:24:19,2.415s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-03-15 14:24:19,2023-03-15 14:24:20,0.910s,PASSED

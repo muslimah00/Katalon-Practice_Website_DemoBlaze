@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MSG01-Sending message to owner without login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf032753-c59f-41c2-a275-50b1b5362a31</testCaseGuid>
+</TestCaseEntity>

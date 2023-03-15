@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="S05-Buy item" time="127.735" tests="3" failures="0" errors="0">
+   <testsuite name="S05-Buy item" tests="3" failures="0" errors="0" time="127.735" skipped="0" timestamp="2023-03-15 15:04:53" hostname="MUSLIMAH - MUSLIMAH" id="Test Suites/S05-Buy item">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\MUSLIMA\\Documents\\GitHub\\TestingWebsite-DemoBlaze\\Demo Blaze Website\\Reports\\20230315_150447\\S05-Buy item\\20230315_150447"/>
+         <property name="logFiles" value="C:\\Users\\MUSLIMA\\Documents\\GitHub\\TestingWebsite-DemoBlaze\\Demo Blaze Website\\Reports\\20230315_150447\\S05-Buy item\\20230315_150447\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="MUSLIMAH - MUSLIMAH"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 111.0.0.0"/>
+         <property name="hostAddress" value="192.168.174.96"/>
+         <property name="sessionId" value="284c8806cd95a6ba69b9f2d2ede03941"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/S05-Buy item/BUY01-Buy phones" time="0.54" classname="Test Cases/S05-Buy item/BUY01-Buy phones" status="PASSED">
+         <system-out><![CDATA[2023-03-15 15:04:54 - [TEST_CASE][PASSED] - Test Cases/S05-Buy item/BUY01-Buy phones: Test Cases/S05-Buy item/BUY01-Buy phones
+
+2023-03-15 15:04:54 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/S05-Buy item/BUY02-Buy Laptop" time="0.437" classname="Test Cases/S05-Buy item/BUY02-Buy Laptop" status="PASSED">
+         <system-out><![CDATA[2023-03-15 15:04:54 - [TEST_CASE][PASSED] - Test Cases/S05-Buy item/BUY02-Buy Laptop: Test Cases/S05-Buy item/BUY02-Buy Laptop
+
+2023-03-15 15:04:55 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/S05-Buy item/BUY03-Buy Monitor" time="126.119" classname="Test Cases/S05-Buy item/BUY03-Buy Monitor" status="PASSED">
+         <system-out><![CDATA[2023-03-15 15:04:55 - [TEST_CASE][PASSED] - Test Cases/S05-Buy item/BUY03-Buy Monitor: Test Cases/S05-Buy item/BUY03-Buy Monitor
+
+2023-03-15 15:04:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-15 15:04:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-15 15:04:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-15 15:05:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-15 15:05:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.demoblaze.com/"): Navigate to 'https://www.demoblaze.com/' successfully
+
+2023-03-15 15:05:23 - [MESSAGE][PASSED] - Navigate to 'https://www.demoblaze.com/' successfully
+
+2023-03-15 15:05:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Log in")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Log in' is clicked on
+
+2023-03-15 15:05:31 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Log in' is clicked on
+
+2023-03-15 15:05:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Username_loginusername"), "reg01"): Text 'reg01' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Username_loginusername'
+
+2023-03-15 15:05:40 - [MESSAGE][PASSED] - Text 'reg01' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Username_loginusername'
+
+2023-03-15 15:05:40 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Password_loginpassword"), "oM/O84xb6B0="): Text ****** has been set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Password_loginpassword'
+
+2023-03-15 15:05:41 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Password_loginpassword'
+
+2023-03-15 15:05:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Log in")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Log in' is clicked on
+
+2023-03-15 15:05:43 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Log in' is clicked on
+
+2023-03-15 15:05:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Phones")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Phones' is clicked on
+
+2023-03-15 15:05:49 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Phones' is clicked on
+
+2023-03-15 15:05:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Samsung galaxy s6")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Samsung galaxy s6' is clicked on
+
+2023-03-15 15:05:52 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Samsung galaxy s6' is clicked on
+
+2023-03-15 15:05:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Add to cart")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Add to cart' is clicked on
+
+2023-03-15 15:05:53 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Add to cart' is clicked on
+
+2023-03-15 15:05:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Cart")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Cart' is clicked on
+
+2023-03-15 15:05:57 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Cart' is clicked on
+
+2023-03-15 15:05:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Place Order")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Place Order' is clicked on
+
+2023-03-15 15:06:00 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Place Order' is clicked on
+
+2023-03-15 15:06:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Name_name"), "buy01"): Text 'buy01' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Name_name'
+
+2023-03-15 15:06:02 - [MESSAGE][PASSED] - Text 'buy01' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Name_name'
+
+2023-03-15 15:06:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Country_country"), "Indonesia"): Text 'Indonesia' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Country_country'
+
+2023-03-15 15:06:03 - [MESSAGE][PASSED] - Text 'Indonesia' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Country_country'
+
+2023-03-15 15:06:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_City_city"), "Pontianak"): Text 'Pontianak' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_City_city'
+
+2023-03-15 15:06:05 - [MESSAGE][PASSED] - Text 'Pontianak' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_City_city'
+
+2023-03-15 15:06:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Credit card_card"), "1234567890"): Text '1234567890' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Credit card_card'
+
+2023-03-15 15:06:06 - [MESSAGE][PASSED] - Text '1234567890' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Credit card_card'
+
+2023-03-15 15:06:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Month_month"), "March"): Text 'March' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Month_month'
+
+2023-03-15 15:06:07 - [MESSAGE][PASSED] - Text 'March' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Month_month'
+
+2023-03-15 15:06:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Year_year"), "2023"): Text '2023' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Year_year'
+
+2023-03-15 15:06:08 - [MESSAGE][PASSED] - Text '2023' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Year_year'
+
+2023-03-15 15:06:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Purchase")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Purchase' is clicked on
+
+2023-03-15 15:06:09 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Purchase' is clicked on
+
+2023-03-15 15:06:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_OK")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_OK' is clicked on
+
+2023-03-15 15:06:13 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_OK' is clicked on
+
+2023-03-15 15:06:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-15 15:06:13 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-03-15 15:06:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-15 15:06:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-15 15:06:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-15 15:06:18 - [TEST_STEP][PASSED] - navigateToUrl("https://www.demoblaze.com/"): Navigate to 'https://www.demoblaze.com/' successfully
+
+2023-03-15 15:06:20 - [MESSAGE][PASSED] - Navigate to 'https://www.demoblaze.com/' successfully
+
+2023-03-15 15:06:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-15 15:06:21 - [MESSAGE][PASSED] - Browser is closed
+
+2023-03-15 15:06:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-15 15:06:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-15 15:06:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-15 15:06:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-15 15:06:23 - [TEST_STEP][PASSED] - navigateToUrl("https://www.demoblaze.com/"): Navigate to 'https://www.demoblaze.com/' successfully
+
+2023-03-15 15:06:25 - [MESSAGE][PASSED] - Navigate to 'https://www.demoblaze.com/' successfully
+
+2023-03-15 15:06:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Log in")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Log in' is clicked on
+
+2023-03-15 15:06:27 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Log in' is clicked on
+
+2023-03-15 15:06:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Username_loginusername"), "reg01"): Text 'reg01' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Username_loginusername'
+
+2023-03-15 15:06:29 - [MESSAGE][PASSED] - Text 'reg01' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Username_loginusername'
+
+2023-03-15 15:06:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Password_loginpassword"), "oM/O84xb6B0="): Text ****** has been set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Password_loginpassword'
+
+2023-03-15 15:06:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Password_loginpassword'
+
+2023-03-15 15:06:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Log in")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Log in' is clicked on
+
+2023-03-15 15:06:30 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Log in' is clicked on
+
+2023-03-15 15:06:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Phones")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Phones' is clicked on
+
+2023-03-15 15:06:34 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Phones' is clicked on
+
+2023-03-15 15:06:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Samsung galaxy s6")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Samsung galaxy s6' is clicked on
+
+2023-03-15 15:06:37 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Samsung galaxy s6' is clicked on
+
+2023-03-15 15:06:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Add to cart")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Add to cart' is clicked on
+
+2023-03-15 15:06:39 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Add to cart' is clicked on
+
+2023-03-15 15:06:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Cart")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Cart' is clicked on
+
+2023-03-15 15:06:42 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Cart' is clicked on
+
+2023-03-15 15:06:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Place Order")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Place Order' is clicked on
+
+2023-03-15 15:06:45 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Place Order' is clicked on
+
+2023-03-15 15:06:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Name_name"), "BUY01"): Text 'BUY01' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Name_name'
+
+2023-03-15 15:06:46 - [MESSAGE][PASSED] - Text 'BUY01' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Name_name'
+
+2023-03-15 15:06:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Country_country"), "Indonesia"): Text 'Indonesia' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Country_country'
+
+2023-03-15 15:06:47 - [MESSAGE][PASSED] - Text 'Indonesia' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Country_country'
+
+2023-03-15 15:06:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_City_city"), "Pontianak"): Text 'Pontianak' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_City_city'
+
+2023-03-15 15:06:49 - [MESSAGE][PASSED] - Text 'Pontianak' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_City_city'
+
+2023-03-15 15:06:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Credit card_card"), "1234567890"): Text '1234567890' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Credit card_card'
+
+2023-03-15 15:06:51 - [MESSAGE][PASSED] - Text '1234567890' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Credit card_card'
+
+2023-03-15 15:06:51 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Month_month"), "March"): Text 'March' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Month_month'
+
+2023-03-15 15:06:52 - [MESSAGE][PASSED] - Text 'March' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Month_month'
+
+2023-03-15 15:06:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Year_year"), "2023"): Text '2023' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Year_year'
+
+2023-03-15 15:06:53 - [MESSAGE][PASSED] - Text '2023' is set on object 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Year_year'
+
+2023-03-15 15:06:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Purchase")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Purchase' is clicked on
+
+2023-03-15 15:06:54 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Purchase' is clicked on
+
+2023-03-15 15:06:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_OK")): Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_OK' is clicked on
+
+2023-03-15 15:06:59 - [MESSAGE][PASSED] - Object: 'Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_OK' is clicked on
+
+2023-03-15 15:06:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-15 15:07:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-03-15 15:04:53 - [TEST_SUITE][PASSED] - S05-Buy item: Test Cases/S05-Buy item/BUY03-Buy Monitor]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

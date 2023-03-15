@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+S01-Register,Chrome 111.0.0.0,,,2023-03-14 21:18:36,2023-03-14 21:21:46,3m - 9.958s,FAILED
+,,,,,,,
+Test Cases/S01-Register/REG01-Register with unregistered data,Chrome 111.0.0.0,,,2023-03-14 21:21:03,2023-03-14 21:21:46,43.078s,FAILED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-14 21:21:03,2023-03-14 21:21:07,3.625s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 111.0.0.0,,,2023-03-14 21:21:07,2023-03-14 21:21:09,2.171s,PASSED
+"click(findTestObject(""Object Repository/S01-Register/REG01-Register with unregistered data/Page_STORE/button_Sign up""))",Chrome 111.0.0.0,,,2023-03-14 21:21:09,2023-03-14 21:21:11,2.123s,PASSED
+"setText(findTestObject(""Object Repository/S01-Register/REG01-Register with unregistered data/Page_STORE/input_Username_sign-username""), ""reg01"")",Chrome 111.0.0.0,,,2023-03-14 21:21:11,2023-03-14 21:21:13,1.718s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/S01-Register/REG01-Register with unregistered data/Page_STORE/input_Password_sign-password""), ""oM/O84xb6B0="")",Chrome 111.0.0.0,,,2023-03-14 21:21:13,2023-03-14 21:21:14,0.931s,PASSED
+"click(findTestObject(""Object Repository/S01-Register/REG01-Register with unregistered data/Page_STORE/button_Sign up""))",Chrome 111.0.0.0,,,2023-03-14 21:21:14,2023-03-14 21:21:46,32.481s,FAILED

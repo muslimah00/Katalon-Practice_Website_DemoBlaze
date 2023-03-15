@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+S02-Login,Chrome 111.0.0.0,,,2023-03-15 14:17:27,2023-03-15 14:17:57,29.550s,PASSED
+,,,,,,,
+Test Cases/S02-Login/LOGIN01-Login with registered account,Chrome 111.0.0.0,,,2023-03-15 14:17:28,2023-03-15 14:17:57,28.547s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-15 14:17:29,2023-03-15 14:17:44,14.882s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 111.0.0.0,,,2023-03-15 14:17:44,2023-03-15 14:17:46,2.750s,PASSED
+"click(findTestObject(""Object Repository/S02-Login/LOGIN01-Login with registered account/Page_STORE/a_Log in""))",Chrome 111.0.0.0,,,2023-03-15 14:17:46,2023-03-15 14:17:51,4.796s,PASSED
+"setText(findTestObject(""Object Repository/S02-Login/LOGIN01-Login with registered account/Page_STORE/input_Username_loginusername""), ""reg01"")",Chrome 111.0.0.0,,,2023-03-15 14:17:51,2023-03-15 14:17:55,3.313s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/S02-Login/LOGIN01-Login with registered account/Page_STORE/input_Password_loginpassword""), ""oM/O84xb6B0="")",Chrome 111.0.0.0,,,2023-03-15 14:17:55,2023-03-15 14:17:56,1.123s,PASSED
+"click(findTestObject(""Object Repository/S02-Login/LOGIN01-Login with registered account/Page_STORE/button_Log in""))",Chrome 111.0.0.0,,,2023-03-15 14:17:56,2023-03-15 14:17:57,0.798s,PASSED

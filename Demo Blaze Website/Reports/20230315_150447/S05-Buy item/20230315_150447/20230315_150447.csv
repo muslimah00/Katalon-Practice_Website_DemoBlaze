@@ -1,0 +1,52 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+S05-Buy item,Chrome 111.0.0.0,,,2023-03-15 15:04:53,2023-03-15 15:07:01,2m - 7.735s,PASSED
+,,,,,,,
+Test Cases/S05-Buy item/BUY01-Buy phones,Chrome 111.0.0.0,,,2023-03-15 15:04:54,2023-03-15 15:04:54,0.540s,PASSED
+return null,Chrome 111.0.0.0,,,2023-03-15 15:04:54,2023-03-15 15:04:54,0.001s,PASSED
+,,,,,,,
+Test Cases/S05-Buy item/BUY02-Buy Laptop,Chrome 111.0.0.0,,,2023-03-15 15:04:54,2023-03-15 15:04:55,0.437s,PASSED
+return null,Chrome 111.0.0.0,,,2023-03-15 15:04:55,2023-03-15 15:04:55,0.001s,PASSED
+,,,,,,,
+Test Cases/S05-Buy item/BUY03-Buy Monitor,Chrome 111.0.0.0,,,2023-03-15 15:04:55,2023-03-15 15:07:01,2m - 6.119s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-15 15:04:55,2023-03-15 15:05:16,20.845s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 111.0.0.0,,,2023-03-15 15:05:16,2023-03-15 15:05:23,7.229s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Log in""))",Chrome 111.0.0.0,,,2023-03-15 15:05:23,2023-03-15 15:05:31,7.333s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Username_loginusername""), ""reg01"")",Chrome 111.0.0.0,,,2023-03-15 15:05:31,2023-03-15 15:05:40,8.984s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Password_loginpassword""), ""oM/O84xb6B0="")",Chrome 111.0.0.0,,,2023-03-15 15:05:40,2023-03-15 15:05:41,1.668s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Log in""))",Chrome 111.0.0.0,,,2023-03-15 15:05:41,2023-03-15 15:05:43,1.980s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Phones""))",Chrome 111.0.0.0,,,2023-03-15 15:05:43,2023-03-15 15:05:49,5.610s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Samsung galaxy s6""))",Chrome 111.0.0.0,,,2023-03-15 15:05:49,2023-03-15 15:05:52,3.044s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Add to cart""))",Chrome 111.0.0.0,,,2023-03-15 15:05:52,2023-03-15 15:05:53,1.597s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Cart""))",Chrome 111.0.0.0,,,2023-03-15 15:05:53,2023-03-15 15:05:57,3.563s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Place Order""))",Chrome 111.0.0.0,,,2023-03-15 15:05:57,2023-03-15 15:06:00,3.357s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Name_name""), ""buy01"")",Chrome 111.0.0.0,,,2023-03-15 15:06:00,2023-03-15 15:06:02,1.835s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Country_country""), ""Indonesia"")",Chrome 111.0.0.0,,,2023-03-15 15:06:02,2023-03-15 15:06:03,1.271s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_City_city""), ""Pontianak"")",Chrome 111.0.0.0,,,2023-03-15 15:06:03,2023-03-15 15:06:05,1.131s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Credit card_card""), ""1234567890"")",Chrome 111.0.0.0,,,2023-03-15 15:06:05,2023-03-15 15:06:06,1.271s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Month_month""), ""March"")",Chrome 111.0.0.0,,,2023-03-15 15:06:06,2023-03-15 15:06:07,1.105s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Year_year""), ""2023"")",Chrome 111.0.0.0,,,2023-03-15 15:06:07,2023-03-15 15:06:08,0.986s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Purchase""))",Chrome 111.0.0.0,,,2023-03-15 15:06:08,2023-03-15 15:06:09,1.446s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_OK""))",Chrome 111.0.0.0,,,2023-03-15 15:06:09,2023-03-15 15:06:13,3.884s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-15 15:06:13,2023-03-15 15:06:18,4.351s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 111.0.0.0,,,2023-03-15 15:06:18,2023-03-15 15:06:20,2.129s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-03-15 15:06:20,2023-03-15 15:06:21,0.814s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-15 15:06:21,2023-03-15 15:06:23,1.999s,PASSED
+"navigateToUrl(""https://www.demoblaze.com/"")",Chrome 111.0.0.0,,,2023-03-15 15:06:23,2023-03-15 15:06:25,2.110s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Log in""))",Chrome 111.0.0.0,,,2023-03-15 15:06:25,2023-03-15 15:06:27,2.772s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Username_loginusername""), ""reg01"")",Chrome 111.0.0.0,,,2023-03-15 15:06:27,2023-03-15 15:06:29,1.321s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Password_loginpassword""), ""oM/O84xb6B0="")",Chrome 111.0.0.0,,,2023-03-15 15:06:29,2023-03-15 15:06:30,0.756s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Log in""))",Chrome 111.0.0.0,,,2023-03-15 15:06:30,2023-03-15 15:06:30,0.596s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Phones""))",Chrome 111.0.0.0,,,2023-03-15 15:06:30,2023-03-15 15:06:34,4.100s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Samsung galaxy s6""))",Chrome 111.0.0.0,,,2023-03-15 15:06:34,2023-03-15 15:06:37,2.860s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Add to cart""))",Chrome 111.0.0.0,,,2023-03-15 15:06:37,2023-03-15 15:06:39,2.043s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/a_Cart""))",Chrome 111.0.0.0,,,2023-03-15 15:06:39,2023-03-15 15:06:42,2.843s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Place Order""))",Chrome 111.0.0.0,,,2023-03-15 15:06:42,2023-03-15 15:06:45,2.795s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Name_name""), ""BUY01"")",Chrome 111.0.0.0,,,2023-03-15 15:06:45,2023-03-15 15:06:46,1.282s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Country_country""), ""Indonesia"")",Chrome 111.0.0.0,,,2023-03-15 15:06:46,2023-03-15 15:06:47,1.243s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_City_city""), ""Pontianak"")",Chrome 111.0.0.0,,,2023-03-15 15:06:47,2023-03-15 15:06:49,2.157s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Credit card_card""), ""1234567890"")",Chrome 111.0.0.0,,,2023-03-15 15:06:49,2023-03-15 15:06:51,1.359s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Month_month""), ""March"")",Chrome 111.0.0.0,,,2023-03-15 15:06:51,2023-03-15 15:06:52,1.367s,PASSED
+"setText(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/input_Year_year""), ""2023"")",Chrome 111.0.0.0,,,2023-03-15 15:06:52,2023-03-15 15:06:53,1.089s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_Purchase""))",Chrome 111.0.0.0,,,2023-03-15 15:06:53,2023-03-15 15:06:54,1.031s,PASSED
+"click(findTestObject(""Object Repository/S05-Buy item/BUY01-Buy phone/Page_STORE/button_OK""))",Chrome 111.0.0.0,,,2023-03-15 15:06:54,2023-03-15 15:06:59,4.417s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-03-15 15:06:59,2023-03-15 15:07:01,1.917s,PASSED

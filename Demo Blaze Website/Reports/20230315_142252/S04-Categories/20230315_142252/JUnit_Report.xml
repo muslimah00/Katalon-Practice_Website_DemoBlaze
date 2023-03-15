@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="S04-Categories" time="80.957" tests="3" failures="0" errors="0">
+   <testsuite name="S04-Categories" tests="3" failures="0" errors="0" time="80.957" skipped="0" timestamp="2023-03-15 14:22:59" hostname="MUSLIMAH - MUSLIMAH" id="Test Suites/S04-Categories">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\MUSLIMA\\Documents\\GitHub\\TestingWebsite-DemoBlaze\\Demo Blaze Website\\Reports\\20230315_142252\\S04-Categories\\20230315_142252"/>
+         <property name="logFiles" value="C:\\Users\\MUSLIMA\\Documents\\GitHub\\TestingWebsite-DemoBlaze\\Demo Blaze Website\\Reports\\20230315_142252\\S04-Categories\\20230315_142252\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="MUSLIMAH - MUSLIMAH"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 111.0.0.0"/>
+         <property name="hostAddress" value="192.168.174.96"/>
+         <property name="sessionId" value="453d83e12926399df968a0e884660495"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/S04-Categories/CTG01-Phones" time="0.818" classname="Test Cases/S04-Categories/CTG01-Phones" status="PASSED">
+         <system-out><![CDATA[2023-03-15 14:22:59 - [TEST_CASE][PASSED] - Test Cases/S04-Categories/CTG01-Phones: Test Cases/S04-Categories/CTG01-Phones
+
+2023-03-15 14:23:00 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/S04-Categories/CTG02-Laptops" time="67.089" classname="Test Cases/S04-Categories/CTG02-Laptops" status="PASSED">
+         <system-out><![CDATA[2023-03-15 14:23:00 - [TEST_CASE][PASSED] - Test Cases/S04-Categories/CTG02-Laptops: Test Cases/S04-Categories/CTG02-Laptops
+
+2023-03-15 14:23:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-15 14:23:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-15 14:23:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-15 14:23:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-15 14:23:06 - [TEST_STEP][PASSED] - navigateToUrl("https://www.demoblaze.com/"): Navigate to 'https://www.demoblaze.com/' successfully
+
+2023-03-15 14:23:09 - [MESSAGE][PASSED] - Navigate to 'https://www.demoblaze.com/' successfully
+
+2023-03-15 14:23:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Log in")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Log in' is clicked on
+
+2023-03-15 14:23:11 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Log in' is clicked on
+
+2023-03-15 14:23:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/input_Username_loginusername"), "reg01"): Text 'reg01' is set on object 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/input_Username_loginusername'
+
+2023-03-15 14:23:12 - [MESSAGE][PASSED] - Text 'reg01' is set on object 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/input_Username_loginusername'
+
+2023-03-15 14:23:12 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/input_Password_loginpassword"), "oM/O84xb6B0="): Text ****** has been set on object 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/input_Password_loginpassword'
+
+2023-03-15 14:23:13 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/input_Password_loginpassword'
+
+2023-03-15 14:23:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/button_Log in")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/button_Log in' is clicked on
+
+2023-03-15 14:23:15 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/button_Log in' is clicked on
+
+2023-03-15 14:23:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:19 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Sony vaio i5")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Sony vaio i5' is clicked on
+
+2023-03-15 14:23:21 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Sony vaio i5' is clicked on
+
+2023-03-15 14:23:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:23:25 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:23:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:26 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Sony vaio i7")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Sony vaio i7' is clicked on
+
+2023-03-15 14:23:29 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Sony vaio i7' is clicked on
+
+2023-03-15 14:23:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:23:34 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:23:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:36 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_MacBook air")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_MacBook air' is clicked on
+
+2023-03-15 14:23:39 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_MacBook air' is clicked on
+
+2023-03-15 14:23:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:23:42 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:23:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:43 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Dell i7 8gb")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Dell i7 8gb' is clicked on
+
+2023-03-15 14:23:46 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Dell i7 8gb' is clicked on
+
+2023-03-15 14:23:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:23:49 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:23:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:50 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_2017 Dell 15.6 Inch")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_2017 Dell 15.6 Inch' is clicked on
+
+2023-03-15 14:23:53 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_2017 Dell 15.6 Inch' is clicked on
+
+2023-03-15 14:23:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:23:56 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:23:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:57 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:23:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_MacBook Pro")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_MacBook Pro' is clicked on
+
+2023-03-15 14:24:01 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_MacBook Pro' is clicked on
+
+2023-03-15 14:24:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:24:03 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Home (current)' is clicked on
+
+2023-03-15 14:24:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:24:05 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/a_Laptops' is clicked on
+
+2023-03-15 14:24:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/button_Next")): Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/button_Next' is clicked on
+
+2023-03-15 14:24:06 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG02-Laptops/Page_STORE/button_Next' is clicked on
+
+2023-03-15 14:24:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-15 14:24:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/S04-Categories/CTG03-Monitors" time="12.422" classname="Test Cases/S04-Categories/CTG03-Monitors" status="PASSED">
+         <system-out><![CDATA[2023-03-15 14:24:07 - [TEST_CASE][PASSED] - Test Cases/S04-Categories/CTG03-Monitors: Test Cases/S04-Categories/CTG03-Monitors
+
+2023-03-15 14:24:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-15 14:24:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-15 14:24:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-15 14:24:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-15 14:24:12 - [TEST_STEP][PASSED] - navigateToUrl("https://www.demoblaze.com/"): Navigate to 'https://www.demoblaze.com/' successfully
+
+2023-03-15 14:24:15 - [MESSAGE][PASSED] - Navigate to 'https://www.demoblaze.com/' successfully
+
+2023-03-15 14:24:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG03-Monitors/Page_STORE/a_Monitors")): Object: 'Object Repository/S04-Categories/CTG03-Monitors/Page_STORE/a_Monitors' is clicked on
+
+2023-03-15 14:24:16 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG03-Monitors/Page_STORE/a_Monitors' is clicked on
+
+2023-03-15 14:24:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S04-Categories/CTG03-Monitors/Page_STORE/a_Apple monitor 24")): Object: 'Object Repository/S04-Categories/CTG03-Monitors/Page_STORE/a_Apple monitor 24' is clicked on
+
+2023-03-15 14:24:19 - [MESSAGE][PASSED] - Object: 'Object Repository/S04-Categories/CTG03-Monitors/Page_STORE/a_Apple monitor 24' is clicked on
+
+2023-03-15 14:24:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-15 14:24:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-03-15 14:22:59 - [TEST_SUITE][PASSED] - S04-Categories: Test Cases/S04-Categories/CTG03-Monitors]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
